@@ -9,3 +9,4 @@ Werkzeug==2.2.2
 zipp==3.10.0
 pattern
 google-api-python-client
+sklearn==0.0.post1
